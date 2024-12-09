@@ -1,0 +1,7 @@
+.regFormVisble {
+  display: block;
+}
+
+.regFormHidden {
+  display: none;
+}
